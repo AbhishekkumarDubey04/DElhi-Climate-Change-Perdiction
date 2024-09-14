@@ -16,3 +16,8 @@ Inverse relationship between temperature and humidity: As temperatures rise, hum
 Seasonal fluctuations: Wind speeds show seasonal variations, with higher speeds during monsoon and retreating monsoon seasons.
 Potential for outliers: Unusual weather events can disrupt predicted trends.
 
+![newplot (3)](https://github.com/user-attachments/assets/0f12f61d-135e-47fb-ae10-e4e00e5c40f2)
+![newplot (2)](https://github.com/user-attachments/assets/5731eaca-3e91-4e36-9cad-4830b0971fbf)
+![newplot (1)](https://github.com/user-attachments/assets/02785c6e-89ac-42f7-97a7-8022792bf6a4)
+![newplot](https://github.com/user-attachments/assets/427ed998-a8df-41b2-a944-bf784e8e7d77)
+![newplot (4)](https://github.com/user-attachments/assets/a5097bf7-b7f7-4a62-8699-11f32609185c)
