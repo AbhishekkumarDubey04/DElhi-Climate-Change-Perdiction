@@ -1,4 +1,4 @@
-# DElhi-Climate-Change-Perdiction
+# Delhi-Climate-Change-Perdiction
 
 This project aims to analyze historical climate data for Delhi, India, and develop predictive models to forecast future climate trends. By leveraging Python's data analysis libraries, the project will:
 
